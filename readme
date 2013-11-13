@@ -20,9 +20,17 @@ Test------------------
 
 //////from Web side //////////////
 
+<<<<<<< HEAD
 
 //From PC 2//
 
 Test test test==========
 
 // From PC 2 //
+=======
+//From web 2 //
+
+Web web web
+
+// From web
+>>>>>>> b3e7cfd63ca21389163c9653a2c3feb11d8e7ba2
